@@ -1,1 +1,1 @@
-# SED2- Repositorio actividades de Seminario Estructura de Datos UDG
+Primeras actividades de Seminario Estructura de Datos UDG
